@@ -1,0 +1,6 @@
+*.pub
+*.retry
+.DS_Store
+.gitignor
+.vagrant
+.version
